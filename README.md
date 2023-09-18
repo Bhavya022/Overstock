@@ -96,8 +96,8 @@ We are very thankful for the support of my teammates and instructor for the comp
 - ## Amaan
 [GitHub](https://github.com/AmaanHaider)
 
-- ## Apoorva
-[GitHub](https://github.com/Apoorva0123)
+- ## Bhavya
+[GitHub](https://github.com/Bhavya022)
 
 
 
